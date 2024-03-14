@@ -7,7 +7,7 @@ tags = [
     "computer vision",
 ]
 date = "2024-02-21"
-jsName = "bear"
+project = "bear-classifier"
 +++
 # Bear classifier
 A bear classifier trained on a [dataset of 40 images](https://www.kaggle.com/datasets/gwongz/bears-4) retrieved from DuckDuckGo.

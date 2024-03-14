@@ -1,1 +1,5 @@
+{{ $project := .Params.project }}
+
+{{ if eq $project "bear-classifier" }}
 <iframe src="https://gwongz-bear-classifier-fastai.hf.space" frameborder="0" width="850" height="850"></iframe>
+{{ end }}
