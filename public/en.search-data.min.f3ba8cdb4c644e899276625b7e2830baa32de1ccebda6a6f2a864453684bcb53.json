@@ -1,0 +1,1 @@
+[{"id":0,"href":"/projects/bear-classifier/","title":"Bear classifier","section":"Projects","content":" Bear classifier # A bear classifier trained on a dataset of 40 images retrieved from DuckDuckGo.\nThe model is built using transfer learning and uses a pre-trained ResNet18 model.\nTry it out!\n"}]

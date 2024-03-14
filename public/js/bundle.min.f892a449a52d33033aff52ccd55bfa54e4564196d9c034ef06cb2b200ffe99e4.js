@@ -1,0 +1,1 @@
+console.log("another js file"),console.log("In the theme folder")

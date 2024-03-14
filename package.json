@@ -1,0 +1,12 @@
+{
+  "comments": {
+    "dependencies": {
+      "@gradio/client": "project"
+    },
+    "devDependencies": {}
+  },
+  "dependencies": {
+    "@gradio/client": "^0.12.1"
+  },
+  "devDependencies": {}
+}
