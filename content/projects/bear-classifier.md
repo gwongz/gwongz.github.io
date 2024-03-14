@@ -10,9 +10,11 @@ date = "2024-02-21"
 project = "bear-classifier"
 +++
 # Bear classifier
-A bear classifier trained on a [dataset of 40 images](https://www.kaggle.com/datasets/gwongz/bears-4) retrieved from DuckDuckGo.
+This is a simple image classifier model from the second lesson of the fast.ai [Practical Deep Learning course](https://course.fast.ai).
 
-The [model](https://www.kaggle.com/code/gwongz/bear-classifier) is built using transfer learning and uses a pre-trained ResNet18 model.
+I trained the bear classifier on a [dataset of 40 images](https://www.kaggle.com/datasets/gwongz/bears-4) retrieved from DuckDuckGo.
+
+The [model](https://www.kaggle.com/code/gwongz/bear-classifier) is built using transfer learning and uses a pre-trained ResNet18 model and is deployed on [Hugging Face](https://huggingface.co/spaces/gwongz/bear-classifier-fastai).
 
 Try it out!
 
